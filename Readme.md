@@ -13,3 +13,5 @@ Go to your es_extended/client/functions.lua and replace the entire function ESX.
 ESX.ShowHelpNotification = function(msg, thisFrame, beep, duration)
     exports['1click2helpui']:HelpUI(msg)
 end
+
+https://discord.gg/guwd9pxQba
