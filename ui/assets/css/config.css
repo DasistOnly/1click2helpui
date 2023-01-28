@@ -1,0 +1,5 @@
+:root {
+    --color-1: #985BFF;
+    --color-2: linear-gradient(89.96deg, rgba(152, 91, 255, 0) 7.74%, var(--color-1) 443.56%);
+    --color-3: calc(var(--piv) * -14) calc(var(--piv) * 18) calc(var(--piv) * 60) rgba(152, 91, 255, 0.5);
+}
